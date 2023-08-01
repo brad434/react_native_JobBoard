@@ -12,3 +12,8 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+<!-- Some Dependencies I downloaded -->
+
+## npm install expo-font (bring great font) , axios (handle our API), react-native-dotenv (it allows us to work with enviroment variables)
+# react_native_JobBoard
